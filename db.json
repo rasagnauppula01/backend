@@ -1,95 +1,244 @@
 {
-  "sunglasses" : [
-        {
-        "id": 81,
-        "title": "Round Silver Frame Sun Glasses",
-        "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-        "price": 19,
-        "discountPercentage": 10.1,
-        "rating": 4.94,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/81/1.jpg",
-        "https://i.dummyjson.com/data/products/81/2.jpg",
-        "https://i.dummyjson.com/data/products/81/3.jpg",
-        "https://i.dummyjson.com/data/products/81/4.webp",
-        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 82,
-        "title": "Kabir Singh Square Sunglass",
-        "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-        "price": 50,
-        "discountPercentage": 15.6,
-        "rating": 4.62,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/82/1.jpg",
-        "https://i.dummyjson.com/data/products/82/2.webp",
-        "https://i.dummyjson.com/data/products/82/3.jpg",
-        "https://i.dummyjson.com/data/products/82/4.jpg",
-        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 83,
-        "title": "Wiley X Night Vision Yellow Glasses",
-        "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-        "price": 30,
-        "discountPercentage": 6.33,
-        "rating": 4.97,
-        "stock": 115,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/83/1.jpg",
-        "https://i.dummyjson.com/data/products/83/2.jpg",
-        "https://i.dummyjson.com/data/products/83/3.jpg",
-        "https://i.dummyjson.com/data/products/83/4.jpg",
-        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 84,
-        "title": "Square Sunglasses",
-        "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-        "price": 28,
-        "discountPercentage": 13.89,
-        "rating": 4.64,
-        "stock": 64,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/84/1.jpg",
-        "https://i.dummyjson.com/data/products/84/2.jpg",
-        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 85,
-        "title": "LouisWill Men Sunglasses",
-        "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-        "price": 50,
-        "discountPercentage": 11.27,
-        "rating": 4.98,
-        "stock": 92,
-        "brand": "LouisWill",
-        "category": "sunglasses",
-        "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/85/1.jpg",
-        "https://i.dummyjson.com/data/products/85/2.jpg",
-        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-        ]
-        }
-        ]
-}
+    "random": [
+      {
+        "text":"It's not what you look at that matters, it's what you see",
+        "author":"-Henry David Thoreau"
+      },
+      {
+        "text":"If you want to see the true measure of a man, watch how he treats his inferiors, not his equals.",
+        "author":"-J. K. Rowling"
+      },
+      {
+        "text":"Be not afraid of discomfort. If you can't put yourself in a situation where you are uncomfortable, then you will never grow. You will never change. You'll never learn.",
+        "author": "-Jason Reynolds"
+      },
+      {
+        "text":"Confidence comes from discipline and training.",
+        "author":"-Robert Kiyosaki"
+      },
+      {
+        "text":"Where words fail, music speaks.",
+        "author": "-Hans Christian Andersen"
+      },
+      {
+        "text":"Whoever said money can't buy happiness simply didn't know where to go shopping.",
+        "author": "-Gertrude Stein"
+      },
+      {
+        "text":"Knowledge is like money: to be of value it must circulate, and in circulating it can increase in quantity and, hopefully, in value.",
+        "author": "-Louis L'Amour"
+      },
+      {
+        "text":"It is easier to build strong children than to repair broken men.",
+        "author": "-Frederick Douglass"
+      },
+      {
+        "text":"Never be afraid to trust an unknown future to a known God.",
+        "author": "-Corrie Ten Boom"
+      },
+      {
+        "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "author": "-Thomas Edison"
+      },
+      {
+        "text": "You can observe a lot just by watching.",
+        "author": "-Yogi Berra"
+      },
+      {
+        "text": "A house divided against itself cannot stand.",
+        "author": "-Abraham Lincoln"
+      },
+      {
+        "text": "Difficulties increase the nearer we get to the goal.",
+        "author": "-Johann Wolfgang von Goethe"
+      },
+      {
+        "text": "Fate is in your hands and no one elses",
+        "author": "-Byron Pulsifer"
+      },
+      {
+        "text": "Be the chief but never the lord.",
+        "author": "-Lao Tzu"
+      },
+      {
+        "text": "Nothing happens unless first we dream.",
+        "author": "-Carl Sandburg"
+      },
+      {
+        "text": "Well begun is half done.",
+        "author": "-Aristotle"
+      },
+      {
+        "text": "Life is a learning experience, only if you learn.",
+        "author": "-Yogi Berra"
+      },
+      {
+        "text": "Self-complacency is fatal to progress.",
+        "author": "-Margaret Sangster"
+      },
+      {
+        "text": "Peace comes from within. Do not seek it without.",
+        "author": "-Buddha"
+      },
+      {
+        "text": "What you give is what you get.",
+        "author": "-Byron Pulsifer"
+      },
+      {
+        "text": "We can only learn to love by loving.",
+        "author": "-Iris Murdoch"
+      },
+      {
+        "text": "Life is change. Growth is optional. Choose wisely.",
+        "author": "-Karen Clark"
+      },
+      {
+        "text": "You'll see it when you believe it.",
+        "author": "-Wayne Dyer"
+      },
+      {
+        "text": "Today is the tomorrow we worried about yesterday.",
+        "author": "-Robert Kiyosaki"
+      },
+      {
+        "text":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "-Martin Fowler"
+      }
+    ],
+  
+  
+    
+    "insp":[
+      {
+        "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "author": "Thomas Edison, type.fit"
+      },
+      {
+        "text": "You can observe a lot just by watching.",
+        "author": "Yogi Berra, type.fit"
+      },
+      {
+        "text": "A house divided against itself cannot stand.",
+        "author": "Abraham Lincoln, type.fit"
+      },
+      {
+        "text": "Difficulties increase the nearer we get to the goal.",
+        "author": "Johann Wolfgang von Goethe, type.fit"
+      },
+      {
+        "text": "Fate is in your hands and no one elses",
+        "author": "Byron Pulsifer, type.fit"
+      },
+      {
+        "text": "Be the chief but never the lord.",
+        "author": "Lao Tzu, type.fit"
+      },
+      {
+        "text": "Nothing happens unless first we dream.",
+        "author": "Carl Sandburg, type.fit"
+      },
+      {
+        "text": "Well begun is half done.",
+        "author": "Aristotle, type.fit"
+      },
+      {
+        "text": "Life is a learning experience, only if you learn.",
+        "author": "Yogi Berra"
+      },
+      {
+        "text": "Self-complacency is fatal to progress.",
+        "author": "Margaret Sangster, type.fit"
+      },
+      {
+        "text": "Peace comes from within. Do not seek it without.",
+        "author": "Buddha, type.fit"
+      },
+      {
+        "text": "What you give is what you get.",
+        "author": "Byron Pulsifer, type.fit"
+      },
+      {
+        "text": "We can only learn to love by loving.",
+        "author": "Iris Murdoch, type.fit"
+      },
+      {
+        "text": "Life is change. Growth is optional. Choose wisely.",
+        "author": "Karen Clark, type.fit"
+      },
+      {
+        "text": "You'll see it when you believe it.",
+        "author": "Wayne Dyer, type.fit"
+      },
+      {
+        "text": "Today is the tomorrow we worried about yesterday.",
+        "author":  "type.fit"
+      },
+      { 
+        "text": "Kindness is the only service that will stand the storm of life and not wash out.", 
+        "author": "Abraham Lincoln"
+      },
+      {
+        "text": "The advancement and diffusion of knowledge is the only guardian of true liberty.",
+        "author": "James Madison"
+      }
+    ],
+  
+  
+  
+    "joke":[
+      {
+      "text":"My mother always used to say: The older you get, the better you get, unless you’re a banana.",
+      "author":"-Rose (Betty White), The Golden Girls"
+      },
+      {
+        "text":"Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.",
+        "author":"-Will Ferrell"
+      },
+      {
+        "text":"Always forgive your enemies; nothing annoys them so much.",
+        "author":"-Oscar Wilde"
+      },
+      {
+        "text":"In real life, I assure you, there is no such thing as algebra",
+        "author":"-Fran Lebowitz"
+      },
+      {
+        "text":"Accept who you are. Unless you’re a serial killer.",
+        "author":"-Ellen DeGeneres"
+      },
+      {
+        "text":"Whoever said that money can’t buy happiness, simply didn’t know where to go shopping.",
+        "author":"-Bo Derek"
+      },
+      {
+        "text":"All you need is love. But a little chocolate now and then doesn’t hurt.",
+        "author":"-Charles M. Schulz"
+      },
+      {
+        "text":"I remember it like it was yesterday. Of course, I don’t really remember yesterday all that well.",
+        "author":"-Dory, “Finding Dory” "
+      },
+      {
+        "text":"Love is blind but marriage is a real eye-opener.",
+        "author":"Pauline Thomason"
+      },
+      {
+        "text":"Everybody wants to save the Earth; nobody wants to help Mom do the dishes.",
+        "author":"P.J. O’Rourke, All the Trouble in the World"
+      },
+      {
+        "text":"I never feel more alone than when I’m trying to put sunscreen on my back.",
+        "author":"Jimmy Kimmel"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
